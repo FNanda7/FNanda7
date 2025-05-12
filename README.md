@@ -52,10 +52,9 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de aprender, c
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/6/60/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/fernanda-marques-6610261a0)  
-[![Email](https://upload.wikimedia.org/wikipedia/commons/a/a2/Gmail_Icon.png)](mailto:fnandamarques7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-marques-6610261a0)  
+[![Email](https://img.shields.io/badge/-fnandamarques7%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fnandamarques7@gmail.com)
 
 ---
 
 ⭐ *Sempre aprendendo. Sempre evoluindo.*
-
