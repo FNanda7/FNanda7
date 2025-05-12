@@ -37,16 +37,19 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de aprender, c
   - Lógica de Programação e Algoritmos
 
 ---
+---
 
-## 📌 Projetos em destaque
+## **📌 Projetos em destaque**
 
-- 🔧 [Calculadora-React](https://github.com/seu-usuario/Calculadora-React): App que ajuda motoristas a economizar, feito com React + TypeScript.
+  Aqui estão alguns dos projetos que desenvolvi e continuo aprimorando:
 
-- 🧮 [Calculadora com Tailwind](https://github.com/NandaCoderDev/Calculadora-tailwind.git): Calculadora estilizada com **Tailwind CSS**, ideal para praticar layout responsivo e lógica de operações.
+- 🔧 **[Calculadora-React](https://github.com/seu-usuario/calculadora-React)**: Uma aplicação simples e intuitiva para calcular economia de combustível, desenvolvida com **React + TypeScript**.
 
-- 🎧 [Projeto Spotify Iniciante](https://github.com/NandaCoderDev/projeto-spotify-iniciante.git): Interface inspirada no Spotify, desenvolvida com **Bootstrap**, focada em estrutura e responsividade com classes utilitárias.
+- 🧮 **[Calculadora com Tailwind](https://github.com/NandaCoderDev/calculadora-tailwind.git)**: Uma calculadora estilizada com **Tailwind CSS**, ideal para praticar layout responsivo e lógica de operações.
 
-- 🌐 [Pagina Solution](https://github.com/NandaCoderDev/.git): Projeto pessoal com foco em estrutura de página e boas práticas de front-end.
+- 🎧 **[Clone Spotify](https://github.com/NandaCoderDev/clone-spotify.git)**: Interface inspirada no **Spotify**, desenvolvida com **Bootstrap** para estrutura e responsividade com classes utilitárias.
+
+- 🌐 **[Pagina Solution](https://github.com/NandaCoderDev/pagina-Solution)**: Projeto pessoal que explora boas práticas de desenvolvimento front-end, como **estruturação semântica** e **design responsivo**.
 
 ---
 
