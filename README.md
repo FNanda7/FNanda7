@@ -53,7 +53,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de aprender, c
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-marques-6610261a0)  
-[![Email](https://img.shields.io/badge/-fnandamarques7%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fnandamarques7@gmail.com)
+[![Email](https://img.shields.io/badge/-fmraeder007%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fmraeder00@gmail.com)
 
 ---
 
