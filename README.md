@@ -40,20 +40,20 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de aprender, c
 
 ## 📌 Projetos em destaque
 
-- 🔧 [Calculadora Gasolina/Álcool](https://github.com/seu-usuario/Calculadora-Gasolina-Alcool): App que ajuda motoristas a economizar, feito com React + TypeScript.
+- 🔧 [Calculadora-React](https://github.com/seu-usuario/Calculadora-React): App que ajuda motoristas a economizar, feito com React + TypeScript.
 
-- 🧮 [Projeto Calculadora com Tailwind](https://github.com/FNanda7/projeto-Calculadora-tailwind.git): Calculadora estilizada com **Tailwind CSS**, ideal para praticar layout responsivo e lógica de operações.
+- 🧮 [Calculadora com Tailwind](https://github.com/NandaCoderDev/Calculadora-tailwind.git): Calculadora estilizada com **Tailwind CSS**, ideal para praticar layout responsivo e lógica de operações.
 
-- 🎧 [Projeto Spotify Iniciante](https://github.com/FNanda7/projeto-spotify-iniciante.git): Interface inspirada no Spotify, desenvolvida com **Bootstrap**, focada em estrutura e responsividade com classes utilitárias.
+- 🎧 [Projeto Spotify Iniciante](https://github.com/NandaCoderDev/projeto-spotify-iniciante.git): Interface inspirada no Spotify, desenvolvida com **Bootstrap**, focada em estrutura e responsividade com classes utilitárias.
 
-- 🌐 [Solution](https://github.com/FNanda7/solution.git): Projeto pessoal com foco em estrutura de página e boas práticas de front-end.
+- 🌐 [Pagina Solution](https://github.com/NandaCoderDev/.git): Projeto pessoal com foco em estrutura de página e boas práticas de front-end.
 
 ---
 
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-marques-6610261a0)  
-[![Email](https://img.shields.io/badge/-fmraeder00%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fmraeder00@gmail.com)
+[![Email](https://img.shields.io/badge/-nandacoderdev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nandacoderdev@gmail.com)
 
 ---
 
